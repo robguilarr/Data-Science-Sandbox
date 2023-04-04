@@ -1,2 +1,3 @@
-# Data-Science-Sandbox
+# Machine Learning Sandbox
+
 Experimentation repository for learning purposes
