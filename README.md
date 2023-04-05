@@ -1,10 +1,11 @@
-# Machine Learning Sandbox
+# 🧪 Machine Learning Sandbox
 
-This repository is a sandbox for my Machine Learning studies. Here, I will be 
+This repository is a sandbox for my Machine Learning studies. Here, I'll be 
 experimenting with various Machine Learning models and techniques, and documenting my 
 progress along the way.
 
-Getting Started
+## Getting Started
+
 To get started with this repository, you will need to have the following installed on 
 your machine:
 
@@ -37,9 +38,12 @@ This repository contains the following files and directories:
 `source/experiments`: This directory contains Jupyter Notebook files with various 
 Machine Learning experiments and tutorials.
 
+`source/systems`: This section contains info about ML Systems (tentative), meantime 
+documenting it in my [Notion](https://www.notion.so/) personal account. 
+
 `data`: This directory contains datasets used in the notebooks.
 
-`README.md`: This file, which provides an overview of the repository.
+`conf/experiments`: Section to allocate hyper-parameters (tentative).
 
 ## Contributing
 
@@ -48,4 +52,4 @@ Machine Learning experiments or tutorials, feel free to create a pull request.
 
 ## License
 
-This repository has no license.
+This repository has no license :D
